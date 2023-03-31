@@ -1,0 +1,12 @@
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/pravopysnyk-ai/dataset
+[submodule "errorification"]
+	path = errorification
+	url = https://github.com/pravopysnyk-ai/errorification
+[submodule "seq2tag"]
+	path = seq2tag
+	url = https://github.com/pravopysnyk-ai/seq2tag
+[submodule "seq2seq"]
+	path = seq2seq
+	url = https://github.com/pravopysnyk-ai/seq2seq
